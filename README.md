@@ -1,4 +1,4 @@
-## Welcome mga mhie to  lovila12.github.io
+## Welcome to  lovila12.github.io
 
 My favorite songs
  - Beer Lite by The Itchyworms
