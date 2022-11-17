@@ -33,3 +33,9 @@ Mina Myoui, commonly known as Mina, is a Japanese singer. She is a member of Twi
 Kim Da-hyun, better known by her first name, Dahyun, is a South Korean singer and rapper. She is a vocalist and the lead rapper of the group.
 
 8. **CHAEYOUNG**
+![CC](https://user-images.githubusercontent.com/118236468/202342225-44552a73-fb2f-496f-bec3-e38d79d7d69b.jpg)
+Son Chae-young, better known by her first name Chaeyoung, is a South Korean singer, rapper, songwriter and dancer. A member of the girl group Twice, she was assigned the role of the group's main rapper.
+
+9. **TZUYU**
+![TT](https://user-images.githubusercontent.com/118236468/202342453-9d571122-1dc7-4b60-b9ed-b5c010ce57ea.jpg)
+Chou Tzuyu, best known by her stage name, Tzuyu, is a Taiwanese singer and dancer, currently based in South Korea. She is a member of Twice, as a lead dancer, sub-vocalist, visual, and the maknae.
