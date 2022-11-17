@@ -27,3 +27,9 @@ Park Ji-hyo, better known by her first name, Jihyo, is a South Korean singer and
 6. **MINA**
 ![mmm](https://user-images.githubusercontent.com/118236468/202341682-1951dc1f-8518-43c9-a9e6-1c85a7b77bb5.jpg)
 Mina Myoui, commonly known as Mina, is a Japanese singer. She is a member of Twice as a sub-vocalist and the main dancer.
+
+7. **DAHYUN**
+![dd](https://user-images.githubusercontent.com/118236468/202342001-93187c1d-8ad3-4b0c-b88a-2b33c2cb70b0.jpg)
+Kim Da-hyun, better known by her first name, Dahyun, is a South Korean singer and rapper. She is a vocalist and the lead rapper of the group.
+
+8. **CHAEYOUNG**
