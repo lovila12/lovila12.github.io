@@ -1,8 +1,7 @@
 ## Welcome to  lovila12.github.io
 
-My favorite songs
- - Beer Lite by The Itchyworms
- - Pasahili by Arthur Miguel
- - Lifetime by Ben&Ben
- 
- ![sidfhn](https://user-images.githubusercontent.com/118236468/202055458-5742243b-b767-449b-93d6-61ce0f790cdb.jpg)
+**About TWICE!** :heart:
+- Twice is a South Korean girl group formed by JYP Entertainment. The group is composed of nine members: Nayeon, Jeongyeon, Momo, Sana, Jihyo, Mina, Dahyun, Chaeyoung, and Tzuyu. Twice was formed under the television program Sixteen (2015) and debuted on October 20, 2015, with the extended play (EP) The Story Begins.
+
+**TWICE : Profile**
+1. **NAYEON**
