@@ -40,4 +40,4 @@ Son Chae-young, better known by her first name Chaeyoung, is a South Korean sing
 ![TT](https://user-images.githubusercontent.com/118236468/202342453-9d571122-1dc7-4b60-b9ed-b5c010ce57ea.jpg)
 Chou Tzuyu, best known by her stage name, Tzuyu, is a Taiwanese singer and dancer, currently based in South Korea. She is a member of Twice, as a lead dancer, sub-vocalist, visual, and the maknae.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/7n2Ycct7Beij7Dj7meI4X0?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DWYlCv3D85m6m?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
