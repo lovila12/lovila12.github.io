@@ -3,6 +3,8 @@
 **About TWICE!**
 - Twice is a South Korean girl group formed by JYP Entertainment. The group is composed of nine members: Nayeon, Jeongyeon, Momo, Sana, Jihyo, Mina, Dahyun, Chaeyoung, and Tzuyu. Twice was formed under the television program Sixteen (2015) and debuted on October 20, 2015, with the extended play (EP) The Story Begins.
 
+![jb](https://user-images.githubusercontent.com/118236468/203459147-95720ebf-c38e-4ce0-8a12-8b72dc52f095.jpg)
+
 **TWICE : Profile**
 1. **NAYEON**
 ![nn](https://user-images.githubusercontent.com/118236468/202340227-a775a6a7-91c0-4413-8ee9-583908954eb4.jpg)
